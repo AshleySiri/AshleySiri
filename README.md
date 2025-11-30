@@ -1,29 +1,36 @@
 # Hi, I'm Ashley 👋
 
-Operations Administrator in financial services & software engineer in training.  
-I love building clean, responsive web projects and tools that make data and workflows easier to manage.
+Operations professional transitioning into software engineering.  
+I’m passionate about building clean, responsive web projects and tools that make workflows, data, and client experiences more efficient.
 
-- 🧮 8+ years in operations (financial planning, CRMs, workflows, SOPs)
-- 💻 Currently completing TripleTen's Software Engineering program
-- 🌐 Focus: Frontend (HTML, CSS, JavaScript) + real-world, process-driven projects
+- 💼 Background in operations, client service, and workflow optimization  
+- 💻 TripleTen Software Engineering program  
+- 🌐 Focus: Frontend Development (HTML, CSS, JavaScript)  
+- 🔧 Strength: Blending real-world operational problem-solving with clean, maintainable code  
 
 ## 🛠 Tech
 
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, BEM, JavaScript
-- **Tools:** Git, GitHub, Webpack, Figma
-- **Learning:** React, APIs, more advanced JS patterns
+**Languages:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, VS Code, Figma  
+**Learning:** React, APIs, advanced JavaScript patterns  
 
 ## 🚀 Projects
 
-- **Spots Photo App Landing Page**  
-  Responsive marketing site with cards, modals, and form validation.  
-  🔗 Live: https://ashleysiri.github.io/se_project_spots  
-  🔗 Code: https://github.com/AshleySiri/se_project_spots
+### 🌿 Spots Photo App Landing Page  
+A responsive marketing page with cards, modals, and form validation.  
+🔗 Live: https://ashleysiri.github.io/se_project_spots  
+🔗 Code: https://github.com/AshleySiri/se_project_spots  
 
-- **Coffeeshop Landing Page**  
-  Multi-section responsive layout practicing semantic HTML & BEM.  
-  🔗 Code: https://github.com/AshleySiri/se_project_coffeeshop
+### ☕ Coffeeshop Landing Page  
+A multi-section responsive layout using semantic HTML & BEM.  
+🔗 Code: https://github.com/AshleySiri/se_project_coffeeshop  
 
-## 📫 Connect
+## 🎯 Current Focus
 
-- [LinkedIn](https://www.linkedin.com/in/ashley-sirianni-9b650a219)
+- Building polished, portfolio-ready web projects  
+- Strengthening JavaScript foundations  
+- Applying my operational background to practical engineering problems  
+
+## 📫 Connect with Me
+
+**LinkedIn:** https://www.linkedin.com/in/ashley-sirianni
