@@ -1,57 +1,76 @@
-# Hi, I’m Ashley 👋
+# Hi, I’m Ashley Sirianni 👋
 
-Operations & business systems professional transitioning into software engineering, with a strong focus on building clean, responsive web applications that improve workflows, data flow, and client experiences.
+I’m a **Software Engineer** with a strong foundation in **frontend development** and a proven background in **operations + financial systems**. I build **clean, responsive, user-centered web applications**—and I bring a systems mindset that prioritizes **clarity, accuracy, scalability, and maintainability**.
 
-My background is in operations, client services, and workflow optimization, where I developed a deep appreciation for how well-designed systems and thoughtful tooling can create meaningful impact. That perspective led me to software engineering, where I now blend operational problem-solving with modern front-end development practices.
+My unique value proposition: I don’t just write code—I think in workflows. I translate real business needs into dependable interfaces and tooling that reduce friction, improve data flow, and create measurable user impact.
 
-- 💼 Background in operations, client service, and workflow optimization  
-- 💻 Currently completing the TripleTen Software Engineering program  
-- 🌐 Focus: Frontend Development (HTML, CSS, JavaScript)  
-- 🔧 Strength: Translating real-world operational needs into clean, maintainable code  
-
-## 🛠 Tech
-
-**Languages:** HTML5, CSS3, JavaScript (ES6+)  
-**Tools:** Git, GitHub, VS Code, Figma  
-**Currently Learning:** React, APIs, advanced JavaScript patterns  
-
-## 🚀 Projects
-
-### 📝 ToDo Web Application  
-A clean, responsive ToDo application built with HTML, CSS, and vanilla JavaScript.
-
-**Features:**
-- Add and delete tasks  
-- Mark tasks as completed  
-- Track progress with a simple, intuitive interface  
-
-This project strengthened my understanding of DOM manipulation, event handling, modular JavaScript, and clean UI structure.
-
-🔗 Live: https://lnkd.in/eSNXNZ26  
-💻 Code: https://github.com/AshleySiri/se_project_todo-app  
+- 💻 Frontend: **JavaScript (ES6+), React, HTML, CSS**
+- 🧠 Strengths: **UI architecture, modular design, validation, state-driven UI, API integration**
+- 📈 Systems mindset: **process optimization, documentation, data accuracy, cross-functional collaboration**
+- 📍 Davie / Fort Lauderdale / Miami, FL | Open to relocation
 
 ---
 
-### 🌿 Spots Photo App Landing Page  
-A responsive marketing page featuring cards, modals, and form validation.
+## 🧰 Tech Stack
 
-🔗 Live: https://ashleysiri.github.io/se_project_spots  
-💻 Code: https://github.com/AshleySiri/se_project_spots  
+**Frontend:** JavaScript (ES6+), React, HTML5, CSS3 (BEM), Responsive & Accessible UI  
+**Tooling:** Git, GitHub, Webpack, NPM, VS Code  
+**APIs:** REST, JSON, async JavaScript  
+**Strengths:** Modular architecture, debugging, UI state management, form validation, clean UX details
 
 ---
 
-### ☕ Coffeeshop Landing Page  
-A multi-section responsive layout built with semantic HTML and BEM methodology.
+## 🚀 Featured Projects
 
-💻 Code: https://github.com/AshleySiri/se_project_coffeeshop  
+### ✅ Custom To-Do Application
+Interactive productivity app showcasing state-driven UI + event-driven logic.
 
-## 🎯 Current Focus
+**Highlights**
+- Real-time UI updates with clean, modular JavaScript
+- Reusable components + client-side validation
+- Consistent state management patterns
 
-- Building polished, portfolio-ready web projects  
-- Strengthening JavaScript fundamentals  
-- Applying my operational background to practical engineering problems  
+🔗 Live Demo: https://ashleysiri.github.io/se_project_todo-app/  
+💻 Repo: https://github.com/AshleySiri/se_project_todo-app
 
-## 📫 Connect with Me
+---
+
+### 📸 Spots Photo App — Responsive Marketing Site
+Responsive multi-page app demonstrating scalable frontend structure + interactive UI.
+
+**Highlights**
+- DOM manipulation, modals, and form validation
+- BEM + responsive layouts (mobile-first)
+- Organized architecture designed for scalability
+
+🔗 Live Demo: https://ashleysiri.github.io/se_project_spots/  
+💻 Repo: https://github.com/AshleySiri/se_project_spots
+
+---
+
+### ☕ CoffeeShop Landing Page
+Marketing landing page focused on layout, accessibility, and clean UI structure.
+
+**Highlights**
+- Semantic HTML + modular CSS organization
+- Flexbox/Grid responsive layout patterns
+- Maintainable structure for future expansion
+
+🔗 Live Demo: https://ashleysiri.github.io/se_project_coffeeshop/  
+💻 Repo: https://github.com/AshleySiri/se_project_coffeeshop
+
+---
+
+## 🎯 What I’m Focused On Now
+
+- Building polished, production-style frontend projects
+- Deepening React patterns + modern tooling
+- Writing cleaner abstractions and improving developer experience (DX)
+
+---
+
+## 📫 Connect
 
 **LinkedIn:** https://www.linkedin.com/in/ashley-sirianni  
 **Email:** ashleysiri1995@gmail.com
+
